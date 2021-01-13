@@ -12,6 +12,7 @@
 5. DIP (Dependency Inversion Principle) : 의존 역전 원칙
 자신보다 변하기 쉬운 것에 의존하지 마라.
 
+
 <br/><br/>
 ## 👉 1. SRP : 단일 책임의 원칙
 
