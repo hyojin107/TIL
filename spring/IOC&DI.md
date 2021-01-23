@@ -46,6 +46,7 @@ Tire tire = (Tire)context.getBean("tire");
 Car car = (Car)context.getBean("car");
 car.setTire(tire);
 ```
+
 ![020](https://user-images.githubusercontent.com/49690185/105571154-04606780-5d91-11eb-9505-ac81463b62d4.png)
 
 xml을 통해 의존성을 주입받게 될 경우 재컴파일/재배포 하지 않아도 XMl 파일만 수정하면 프로그램의 실행 결과를 바꿀 수 있다.
@@ -64,6 +65,7 @@ xml을 통해 의존성을 주입받게 될 경우 재컴파일/재배포 하지
 ApplicationContext context = new ClassPathXmlApplicationContext("expert002.xml");
 Car car = context.getBean("car", Car.class);
 ```
+
 ![023](https://user-images.githubusercontent.com/49690185/105571159-13471a00-5d91-11eb-998c-e0c33b513a2e.png)
 
 
@@ -74,6 +76,7 @@ import org.springframework.beans.factory.annotation,Autowired;
 @Autowired
 Tire tire;
 ```
+
 ![026](https://user-images.githubusercontent.com/49690185/105571162-1cd08200-5d91-11eb-8baf-31358043f954.png)
 
 
