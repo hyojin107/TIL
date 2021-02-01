@@ -13,3 +13,6 @@
 ## 👍SPRING
 - [AOP](https://github.com/hyojin107/TIL/blob/main/spring/AOP.md)
 - [IOC&DI](https://github.com/hyojin107/TIL/blob/main/spring/IOC&DI.md)
+
+## 😎JPA
+- [JPA란?](https://hyojin-blog.tistory.com/5)
