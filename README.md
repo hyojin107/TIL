@@ -18,4 +18,4 @@
 - [JPA란?](https://hyojin-blog.tistory.com/5)
 
 ## 🎈Git-Flow
-- [Git-Flow 정리](https://hyojin-blog.tistory.com/7)
+- [Git-Flow](https://hyojin-blog.tistory.com/7)
