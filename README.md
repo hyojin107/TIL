@@ -1,5 +1,5 @@
 # Today I Learned
-> 오늘 배운 내용을 마크다운으로 정리해 둔 저장소
+> 오늘 배운 내용 혹은 기존의 지식들을 정리하여 마크다운으로 정리해 둔 저장소
 
 ## 🙌OOP
 - [SOLID](https://github.com/hyojin107/TIL/blob/main/OOP/SOLID.md)
@@ -9,6 +9,7 @@
 
 ## 😊JAVA
 - [Lambda](https://github.com/hyojin107/TIL/blob/main/java/Lambda.md)
+- [file IO](https://hyojin-blog.tistory.com/8)
 
 ## 👍SPRING
 - [AOP](https://github.com/hyojin107/TIL/blob/main/spring/AOP.md)
@@ -19,3 +20,5 @@
 
 ## 🎈Git-Flow
 - [Git-Flow](https://hyojin-blog.tistory.com/7)
+
+
