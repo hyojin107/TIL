@@ -17,6 +17,7 @@
 
 ## 😎JPA
 - [JPA란?](https://hyojin-blog.tistory.com/5)
+- [ByteArrayIOStream](https://hyojin-blog.tistory.com/9)
 
 ## 🎈Git-Flow
 - [Git-Flow](https://hyojin-blog.tistory.com/7)
