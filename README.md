@@ -1,5 +1,6 @@
 # Today I Learned
-> 오늘 배운 내용 혹은 기존의 지식들을 정리하여 마크다운으로 정리해 둔 저장소
+> 오늘 배운 내용 혹은 기존의 지식들을 정리한 저장소
+> 마크다운 혹은 블로그로 정리하여 링크 걸기
 
 ## 🙌OOP
 - [SOLID](https://github.com/hyojin107/TIL/blob/main/OOP/SOLID.md)
