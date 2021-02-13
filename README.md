@@ -11,6 +11,7 @@
 ## 😊JAVA
 - [Lambda](https://github.com/hyojin107/TIL/blob/main/java/Lambda.md)
 - [file IO](https://hyojin-blog.tistory.com/8)
+- [Directory 기본 메서드](https://hyojin-blog.tistory.com/10)
 
 ## 👍SPRING
 - [AOP](https://github.com/hyojin107/TIL/blob/main/spring/AOP.md)
