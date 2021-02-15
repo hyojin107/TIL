@@ -13,6 +13,7 @@
 - [file IO](https://hyojin-blog.tistory.com/8)
 - [Directory 기본 메서드](https://hyojin-blog.tistory.com/10)
 - [Thread 사용법](https://hyojin-blog.tistory.com/11)
+- [Buffered IO](https://hyojin-blog.tistory.com/12)
 
 ## 👍SPRING
 - [AOP](https://github.com/hyojin107/TIL/blob/main/spring/AOP.md)
