@@ -1,6 +1,6 @@
 # Today I Learned
 > 오늘 배운 내용 혹은 기존의 지식들을 정리한 저장소
-> 마크다운 혹은 블로그로 정리하여 링크 걸기
+> 마크다운 혹은 블로그로 정리
 
 ## 🙌OOP
 - [SOLID](https://github.com/hyojin107/TIL/blob/main/OOP/SOLID.md)
@@ -20,12 +20,13 @@
 ## 👍SPRING
 - [AOP](https://github.com/hyojin107/TIL/blob/main/spring/AOP.md)
 - [IOC&DI](https://github.com/hyojin107/TIL/blob/main/spring/IOC&DI.md)
+- [Spring Security 구조](https://hyojin-blog.tistory.com/15)
 
 ## 😎JPA
 - [JPA란?](https://hyojin-blog.tistory.com/5)
 - [ByteArrayIOStream](https://hyojin-blog.tistory.com/9)
 
-## 🎈Git-Flow
+## 🎈Git
 - [Git-Flow](https://hyojin-blog.tistory.com/7)
 
 
