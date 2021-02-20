@@ -16,6 +16,7 @@
 - [Buffered IO](https://hyojin-blog.tistory.com/12)
 - [log4j 정리](https://hyojin-blog.tistory.com/13)
 - [참조변수의 복사](https://hyojin-blog.tistory.com/14)
+- [ByteArrayIOStream](https://hyojin-blog.tistory.com/9)
 
 ## 👍SPRING
 - [AOP](https://github.com/hyojin107/TIL/blob/main/spring/AOP.md)
@@ -24,7 +25,7 @@
 
 ## 😎JPA
 - [JPA란?](https://hyojin-blog.tistory.com/5)
-- [ByteArrayIOStream](https://hyojin-blog.tistory.com/9)
+- [객체 매핑](https://hyojin-blog.tistory.com/16)
 
 ## 🎈Git
 - [Git-Flow](https://hyojin-blog.tistory.com/7)
