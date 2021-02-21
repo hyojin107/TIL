@@ -1,5 +1,5 @@
 # Today I Learned
-> 오늘 배운 내용 혹은 기존의 지식들을 정리한 저장소
+> 오늘 배운 내용 혹은 기존의 지식들을 정리한 저장소 <br/>
 > 마크다운 혹은 블로그로 정리
 
 ## 🙌OOP
@@ -14,7 +14,7 @@
 - [Directory 기본 메서드](https://hyojin-blog.tistory.com/10)
 - [Thread 사용법](https://hyojin-blog.tistory.com/11)
 - [Buffered IO](https://hyojin-blog.tistory.com/12)
-- [log4j 정리](https://hyojin-blog.tistory.com/13)
+- [log4j](https://hyojin-blog.tistory.com/13)
 - [참조변수의 복사](https://hyojin-blog.tistory.com/14)
 - [ByteArrayIOStream](https://hyojin-blog.tistory.com/9)
 
