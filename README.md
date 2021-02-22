@@ -27,6 +27,9 @@
 - [JPA란?](https://hyojin-blog.tistory.com/5)
 - [객체 매핑](https://hyojin-blog.tistory.com/16)
 
+## 🐣 Web
+- [Cookie](https://hyojin-blog.tistory.com/17)
+
 ## 🎈Git
 - [Git-Flow](https://hyojin-blog.tistory.com/7)
 
