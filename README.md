@@ -29,6 +29,7 @@
 
 ## 🐣 Web
 - [Cookie](https://hyojin-blog.tistory.com/17)
+- [JWT 소개](https://hyojin-blog.tistory.com/18)
 
 ## 🎈Git
 - [Git-Flow](https://hyojin-blog.tistory.com/7)
