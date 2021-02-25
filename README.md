@@ -28,6 +28,7 @@
 - [객체 매핑](https://hyojin-blog.tistory.com/16)
 
 ## 🐣 Web
+- [HTTP Request](https://hyojin-blog.tistory.com/20)
 - [Cookie](https://hyojin-blog.tistory.com/17)
 - [JWT 소개](https://hyojin-blog.tistory.com/18)
 - [흐름제어 [RequestDispatcher, Redirect]](https://hyojin-blog.tistory.com/19)
