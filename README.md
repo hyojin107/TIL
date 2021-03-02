@@ -17,6 +17,7 @@
 - [log4j](https://hyojin-blog.tistory.com/13)
 - [참조변수의 복사](https://hyojin-blog.tistory.com/14)
 - [ByteArrayIOStream](https://hyojin-blog.tistory.com/9)
+- [ByteArray IO](https://hyojin-blog.tistory.com/23)
 - [Connection 성능체크](https://hyojin-blog.tistory.com/21)
 
 ## 👍SPRING
