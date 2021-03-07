@@ -31,6 +31,7 @@
 
 ## 🐣 Web
 - [HTTP Request](https://hyojin-blog.tistory.com/20)
+- [HTTP Response](https://hyojin-blog.tistory.com/24)
 - [Cookie](https://hyojin-blog.tistory.com/17)
 - [JWT 소개](https://hyojin-blog.tistory.com/18)
 - [흐름제어 [RequestDispatcher, Redirect]](https://hyojin-blog.tistory.com/19)
