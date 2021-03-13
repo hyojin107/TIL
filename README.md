@@ -30,6 +30,7 @@
 - [객체 매핑](https://hyojin-blog.tistory.com/16)
 - [영속성 관리](https://hyojin-blog.tistory.com/25)
 - [영속성 컨텍스트](https://hyojin-blog.tistory.com/26)
+- [쓰기 지연](https://hyojin-blog.tistory.com/27)
 
 ## 🐣 Web
 - [HTTP Request](https://hyojin-blog.tistory.com/20)
