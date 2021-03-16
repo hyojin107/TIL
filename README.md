@@ -42,5 +42,5 @@
 
 ## 🎈Git
 - [Git-Flow](https://hyojin-blog.tistory.com/7)
-
+- [fork한 저장소와 원격 저장소 동기화하기](https://hyojin-blog.tistory.com/28)
 
