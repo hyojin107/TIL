@@ -31,6 +31,7 @@
 - [영속성 관리](https://hyojin-blog.tistory.com/25)
 - [영속성 컨텍스트](https://hyojin-blog.tistory.com/26)
 - [쓰기 지연](https://hyojin-blog.tistory.com/27)
+- [엔티티 수정(변경 감지)](https://hyojin-blog.tistory.com/29)
 
 ## 🐣 Web
 - [HTTP Request](https://hyojin-blog.tistory.com/20)
