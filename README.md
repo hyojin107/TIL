@@ -33,6 +33,7 @@
 - [쓰기 지연](https://hyojin-blog.tistory.com/27)
 - [엔티티 수정(변경 감지)](https://hyojin-blog.tistory.com/29)
 - [플러시(flush)](https://hyojin-blog.tistory.com/30)
+- [객체와 테이블 매핑](https://hyojin-blog.tistory.com/31)
 
 ## 🐣 Web
 - [HTTP Request](https://hyojin-blog.tistory.com/20)
