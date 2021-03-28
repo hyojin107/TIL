@@ -34,6 +34,7 @@
 - [엔티티 수정(변경 감지)](https://hyojin-blog.tistory.com/29)
 - [플러시(flush)](https://hyojin-blog.tistory.com/30)
 - [객체와 테이블 매핑](https://hyojin-blog.tistory.com/31)
+- [DB 스키마 자동 생성](https://hyojin-blog.tistory.com/32)
 
 ## 🐣 Web
 - [HTTP Request](https://hyojin-blog.tistory.com/20)
