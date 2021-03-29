@@ -35,6 +35,7 @@
 - [플러시(flush)](https://hyojin-blog.tistory.com/30)
 - [객체와 테이블 매핑](https://hyojin-blog.tistory.com/31)
 - [DB 스키마 자동 생성](https://hyojin-blog.tistory.com/32)
+- [필드와 컬럼 매핑](https://hyojin-blog.tistory.com/33)
 
 ## 🐣 Web
 - [HTTP Request](https://hyojin-blog.tistory.com/20)
