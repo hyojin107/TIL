@@ -36,6 +36,7 @@
 - [객체와 테이블 매핑](https://hyojin-blog.tistory.com/31)
 - [DB 스키마 자동 생성](https://hyojin-blog.tistory.com/32)
 - [필드와 컬럼 매핑](https://hyojin-blog.tistory.com/33)
+- [기본 키 매핑](https://hyojin-blog.tistory.com/34)
 
 ## 🐣 Web
 - [HTTP Request](https://hyojin-blog.tistory.com/20)
