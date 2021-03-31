@@ -25,7 +25,7 @@
 - [IOC&DI](https://github.com/hyojin107/TIL/blob/main/spring/IOC&DI.md)
 - [Spring Security 구조](https://hyojin-blog.tistory.com/15)
 
-## 😎JPA
+## 😎자바 ORM 표준 JPA 프로그래밍 - 기본편
 - [JPA란?](https://hyojin-blog.tistory.com/5)
 - [객체 매핑](https://hyojin-blog.tistory.com/16)
 - [영속성 관리](https://hyojin-blog.tistory.com/25)
@@ -39,7 +39,7 @@
 - [기본 키 매핑](https://hyojin-blog.tistory.com/34)
 - [기본 키 매핑-Table 생성 전략](https://hyojin-blog.tistory.com/35)
 
-## 🐣 Web
+## 🐣Web
 - [HTTP Request](https://hyojin-blog.tistory.com/20)
 - [HTTP Response](https://hyojin-blog.tistory.com/24)
 - [Cookie](https://hyojin-blog.tistory.com/17)
@@ -50,4 +50,7 @@
 ## 🎈Git
 - [Git-Flow](https://hyojin-blog.tistory.com/7)
 - [fork한 저장소와 원격 저장소 동기화하기](https://hyojin-blog.tistory.com/28)
+
+## 🍒Error
+- [N+1 에러](https://hyojin-blog.tistory.com/36)
 
