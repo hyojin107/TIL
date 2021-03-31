@@ -8,6 +8,7 @@
 - [디자인패턴](https://github.com/hyojin107/TIL/blob/main/OOP/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4.md)
 - [참조변수의 복사](https://github.com/hyojin107/TIL/blob/main/OOP/%EC%B0%B8%EC%A1%B0%EB%B3%80%EC%88%98%EC%9D%98%20%EB%B3%B5%EC%82%AC.md)
 
+
 ## 😊JAVA
 - [Lambda](https://github.com/hyojin107/TIL/blob/main/java/Lambda.md)
 - [file IO](https://hyojin-blog.tistory.com/8)
@@ -20,10 +21,12 @@
 - [ByteArray IO](https://hyojin-blog.tistory.com/23)
 - [Connection 성능체크](https://hyojin-blog.tistory.com/21)
 
+
 ## 👍SPRING
 - [AOP](https://github.com/hyojin107/TIL/blob/main/spring/AOP.md)
 - [IOC&DI](https://github.com/hyojin107/TIL/blob/main/spring/IOC&DI.md)
 - [Spring Security 구조](https://hyojin-blog.tistory.com/15)
+
 
 ## 😎자바 ORM 표준 JPA 프로그래밍 - 기본편
 - [JPA란?](https://hyojin-blog.tistory.com/5)
@@ -39,6 +42,7 @@
 - [기본 키 매핑](https://hyojin-blog.tistory.com/34)
 - [기본 키 매핑-Table 생성 전략](https://hyojin-blog.tistory.com/35)
 
+
 ## 🐣Web
 - [HTTP Request](https://hyojin-blog.tistory.com/20)
 - [HTTP Response](https://hyojin-blog.tistory.com/24)
@@ -47,10 +51,12 @@
 - [흐름제어 [RequestDispatcher, Redirect]](https://hyojin-blog.tistory.com/19)
 - [EL](https://hyojin-blog.tistory.com/22)
 
+
 ## 🎈Git
 - [Git-Flow](https://hyojin-blog.tistory.com/7)
 - [fork한 저장소와 원격 저장소 동기화하기](https://hyojin-blog.tistory.com/28)
 
-## 🍒Error
+
+## 🐛Error
 - [N+1 에러](https://hyojin-blog.tistory.com/36)
 
