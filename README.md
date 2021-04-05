@@ -41,6 +41,7 @@
 - [필드와 컬럼 매핑](https://hyojin-blog.tistory.com/33)
 - [기본 키 매핑](https://hyojin-blog.tistory.com/34)
 - [기본 키 매핑-Table 생성 전략](https://hyojin-blog.tistory.com/35)
+- [단방향 연관관계 매핑](https://hyojin-blog.tistory.com/37)
 
 
 ## 🐣Web
